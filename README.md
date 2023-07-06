@@ -4,4 +4,4 @@
 3. Model training, evaluation and prediciton will be performed in the notebook
 4. Run the app.py file
 5. Copy the server url in the terminal and paste it in any internet browser
-6. Upload an image from a local drive and predict
+6. Upload an image from a local drive and push "predict" button
